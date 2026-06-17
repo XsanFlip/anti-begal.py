@@ -36,6 +36,8 @@ Because the C2 server dynamically allocates memory (`ACTIVE_SESSIONS` and `CREDE
     
 4.  **Multi-Threading:** It floods the target `/api/v1/collector` endpoint with these spoofed, encrypted requests using concurrent threads.
     
+<img width="1159" height="599" alt="brave_screenshot (4)" src="https://github.com/user-attachments/assets/829e740e-eebd-4da0-920d-d77dc3d0c269" />
+
 
 ### The Tactical Impact on the Target C2:
 
